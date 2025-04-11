@@ -96,6 +96,29 @@ This project is licensed under the **MIT License**.
 
 ---
 
+# Clone the Uniswap v4-template repository
+```bash
+git clone [https://github.com/rocknwa/Defi-Stable-Coin.git](https://github.com/rocknwa/Defi-Stable-Coin.git)
+```
+
+# Navigate into the project directory
+
+```bash
+cd Defi-Stable-Coin
+```
+
+# Install dependencies using Foundry
+
+```bash
+forge install
+```
+
+# Run tests to ensure everything is set up correctly
+
+```base
+forge test
+```
+
 ### **Author**
 - **Therock Ani**  
 - Twitter: [@ani_therock](https://twitter.com/ani_therock)  
