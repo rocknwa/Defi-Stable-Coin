@@ -98,7 +98,7 @@ This project is licensed under the **MIT License**.
 
 # Clone the Uniswap v4-template repository
 ```bash
-git clone [https://github.com/rocknwa/Defi-Stable-Coin.git](https://github.com/rocknwa/Defi-Stable-Coin.git)
+git clone https://github.com/rocknwa/Defi-Stable-Coin.git
 ```
 
 # Navigate into the project directory
