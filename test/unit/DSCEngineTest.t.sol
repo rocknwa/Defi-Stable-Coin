@@ -542,7 +542,7 @@ contract DSCEngineTest is StdCheats, Test {
         assertEq(actualLiquidationPrecision, expectedLiquidationPrecision);
     }
 
-    // How do we adjust our invariant tests for this?
+    // Adjust our invariant tests for this
     // function testInvariantBreaks() public depositedCollateralAndMintedDsc {
     //     MockV3Aggregator(ethUsdPriceFeed).updateAnswer(0);
 
