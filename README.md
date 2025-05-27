@@ -1,6 +1,6 @@
 # Decentralized Stablecoin System
 
-The Decentralized Stablecoin System is an advanced decentralized finance (DeFi) project demonstrating expertise in Solidity smart contract development. This portfolio project implements a USD-pegged stablecoin, Decentralized Stablecoin (DSC), backed by WETH and WBTC, inspired by MakerDAO’s DAI but designed to be minimal, governance-free, and fee-free. Tailored to impress recruiters, the project showcases gas optimization, security best practices, and complex integrations, positioning the developer as a skilled blockchain professional ready to contribute to innovative DeFi solutions.
+The Decentralized Stablecoin System is an advanced decentralized finance (DeFi) project demonstrating expertise in Solidity smart contract development. This portfolio project implements a USD-pegged stablecoin, Decentralized Stablecoin (DSC), backed by WETH and WBTC, inspired by MakerDAO’s DAI but designed to be minimal, governance-free, and fee-free. The project showcases gas optimization, security best practices, and complex integrations, positioning the developer as a skilled blockchain professional ready to contribute to innovative DeFi solutions.
 
 ---
 
